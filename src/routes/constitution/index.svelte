@@ -100,7 +100,7 @@
 </style>
 
 <div class="constitution">
-    <h1 class="noUnderscore">LEGENDS LEAGUE CONSTITUTION</h1>
+    <h1 class="noUnderscore">LEGENDS LEAGUE CONSTITUTION (NOTE this is the templates consitition, if you all want to write your own please do it, I think it would be really cool</h1>
     
     <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
     
