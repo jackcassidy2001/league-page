@@ -73,7 +73,7 @@ export const managers = [
 //       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Naperville", // (optional)
       "bio": "If Mitchell Trubisky has a million fans, then I am one of them. If Mitchell Trubisky has ten fans, then I am one of them. If Mitchell Trubisky has only one fan then that is me. If Mitchell Trubisky has no fans, then that means I am no longer on earth. If the world is against Mitchell Trubisky, then I am against the world.",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "https://pbs.twimg.com/profile_images/1457806853291663361/XGpsU_vL_400x400.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 3976, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "chi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
