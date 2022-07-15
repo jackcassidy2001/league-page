@@ -16,7 +16,7 @@ import { dynasty } from './utils/helper';
             name: "Mason Dodd Youtube Channel",
             url: "https://www.youtube.com/channel/UC7mnFgvC365vmb6b2EYFcjw",
             icon: "insights",
-            premium: true,
+            premium: false,
             separator: false,
             
         },
