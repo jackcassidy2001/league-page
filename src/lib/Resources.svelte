@@ -11,7 +11,7 @@ import { dynasty } from './utils/helper';
             premium: true,
             separator: true,
         },
-       =
+       
 //         {
 //             name: "Dynasty Nerds GM",
 //             url: "https://gm.dynastynerds.com/",
