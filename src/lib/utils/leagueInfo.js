@@ -9,7 +9,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p> Hello welcome to our fantasy football page</p>
   <p>Mitchell Trubisky is the greatest qb ever.</p>
-  <p>Piss</p>
+  <p>Website is still in its development stage, please be patient and also if you have any ideas please send it in the google form or just tell me about it</p>
 
 `;
 
