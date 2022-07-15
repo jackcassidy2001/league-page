@@ -239,7 +239,7 @@
                 Win Now or Rebuild?
             </div>
             <div class="infoIcon">
-                <img class="Mindset" src="/{viewManager.mode.replace(' ', '%20')}.png" alt="Mindset"/>
+                <img class="rebuildOrWin" src="/{viewManager.mode.replace(' ', '%20')}.png" alt="Mindset"/>
             </div>
             <div class="infoAnswer">
                 {viewManager.mode}
