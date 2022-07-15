@@ -5,29 +5,29 @@ import { dynasty } from './utils/helper';
     const today = new Date();
     const resources = [
         {
-            name: "Mason Dodd",
+            name: "Flock Network",
             url: "https://flock.locals.com/",
             icon: "insights",
             premium: true,
             separator: true,
         },
        
-//         {
-//             name: "Dynasty Nerds GM",
-//             url: "https://gm.dynastynerds.com/",
-//             icon: "insights",
-//             premium: true,
-//             separator: true,
-//             dynastyOnly: true,
-//         },
-//         {
-//             name: "Fantasy Football Trade Analyzer",
-//             url: `https://fantasyfootballcalculator.com/trade-analyzer`,
-//             icon: "calculate",
-//             premium: false,
-//             separator: true,
-//             redraftOnly: true,
-//         },
+        {
+            name: "Mason Dodd Youtube Channel",
+            url: "https://www.youtube.com/channel/UC7mnFgvC365vmb6b2EYFcjw",
+            icon: "insights",
+            premium: true,
+            separator: false,
+            
+        },
+        {
+            name: "Mason Dodd Twitter",
+            url: "https://twitter.com/buildthedynasty",
+            icon: "calculate",
+            premium: false,
+            separator: true,
+           
+        },
 //         {
 //             name: "Reddit FF Trade Analyzer",
 //             url: "https://www.reddit.com/r/TradeAnalyzerFF/",
