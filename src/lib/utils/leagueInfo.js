@@ -7,9 +7,8 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p> Hello welcome to our fantasy football page</p>
-  <p>Mitchell Trubisky is the greatest qb ever.</p>
-  <p>Website is still in its development stage, please be patient and also if you have any ideas please send it in the google form or just tell me about it. If you are interested I can make you a collaborator on github, you don't have to know any coding, you will just need to know how to copy and paste and know how to read the code files (which I can teach you)</p>
+  <p> Hello welcome to our fantasy football page. Website is still in its development stage, please be patient and also if you have any ideas please send it in the google form or just tell me about it, also you can fill the google form as much time you want so if you want to change something in your bio or add another suggestion.  Right now at the moment I can't to get the roster tab to work, I'll either try to troubleshoot it or message the creator. </p>
+  <p> If you are interested I can make you a collaborator on github, you don't have to know any coding, you will just need to know how to copy and paste and know how to read the code files (which I can teach you)</p>
   <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeBJd6Xjuc3ErE5QOl88QVzbZ1MWnblXaEZI6rZQN-U7Rzh5g/viewform?usp=sf_link">Google Form Link</a></p>
 
 `;
