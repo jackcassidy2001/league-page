@@ -72,7 +72,7 @@ export const managers = [
       "name": "Jack Cassidy",
 //       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Aurora, IL", // (optional)
-      "bio": "If Mitchell Trubisky has a million fans, then I am one of them. If Mitchell Trubisky has ten fans, then I am one of them. If Mitchell Trubisky has only one fan then that is me. If Mitchell Trubisky has no fans, then that means I am no longer on earth. If the world is against Mitchell Trubisky, then I am against the world.                         From the chicago suburbs. Chicago Bears Fan. Iowa State Computer Engineering",
+      "bio": "If Mitchell Trubisky has a million fans, then I am one of them. If Mitchell Trubisky has ten fans, then I am one of them. If Mitchell Trubisky has only one fan then that is me. If Mitchell Trubisky has no fans, then that means I am no longer on earth. If the world is against Mitchell Trubisky, then I am against the world./r\r/t\t                         From the chicago suburbs. Chicago Bears Fan. Iowa State Computer Engineering",
       "photo": "https://pbs.twimg.com/profile_images/1457806853291663361/XGpsU_vL_400x400.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2018, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "chi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
