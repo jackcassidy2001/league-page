@@ -219,7 +219,7 @@ export const managers = [
       "valuePosition": "QB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
       "philosophy": "Fuck bitches get money", // (optional)
-      "tradingScale": 10, // 1 - 10 (optional)
+      "tradingScale": 6, // 1 - 10 (optional)
       "preferredContact": "Snapchat",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon', 'Snapchat are currently supplied in the template
     },
    {
