@@ -72,15 +72,15 @@ export const managers = [
       "name": "Jack Cassidy",
 //       "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Aurora, IL", // (optional)
-      "bio": "If Mitchell Trubisky has a million fans, then I am one of them. If Mitchell Trubisky has ten fans, then I am one of them. If Mitchell Trubisky has only one fan then that is me. If Mitchell Trubisky has no fans, then that means I am no longer on earth. If the world is against Mitchell Trubisky, then I am against the world.",
+      "bio": "If Mitchell Trubisky has a million fans, then I am one of them. If Mitchell Trubisky has ten fans, then I am one of them. If Mitchell Trubisky has only one fan then that is me. If Mitchell Trubisky has no fans, then that means I am no longer on earth. If the world is against Mitchell Trubisky, then I am against the world.                         From the chicago suburbs. Chicago Bears Fan. Iowa State Computer Engineering",
       "photo": "https://pbs.twimg.com/profile_images/1457806853291663361/XGpsU_vL_400x400.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2018, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "chi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Trolling", // (optional) 'Win Now', 'Dynasty', or 'Rebuild', 'Trolling', 'Having Fun', 'Testing Water' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
-        name: "JOEY", // Can be anything (usually your rival's name)
-        link: 7, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        name: "Kevin", // Can be anything (usually your rival's name)
+        link: 5, // manager array number within this array, or null to link back to all managers page
+        image: "/managers/question.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 3976, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "TE", // (optional) Favorite position (QB, WR, RB, TE, etc.)
