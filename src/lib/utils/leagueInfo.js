@@ -11,6 +11,7 @@ export const homepageText = `
   <p>Mitchell Trubisky is the greatest qb ever.</p>
   <p>Website is still in its development stage, please be patient and also if you have any ideas please send it in the google form or just tell me about it. If you are interested I can make you a collaborator on github, you don't have to know any coding, you will just need to know how to copy and paste and know how to read the code files (which I can teach you)</p>
   <p> Google Form https://docs.google.com/forms/d/e/1FAIpQLSeBJd6Xjuc3ErE5QOl88QVzbZ1MWnblXaEZI6rZQN-U7Rzh5g/viewform?usp=sf_link </p>
+  <p><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></p>
 
 `;
 
